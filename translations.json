@@ -1,0 +1,139 @@
+{
+  "Can you check if your microphone is on, please?": {
+    "ru": "Пожалуйста, проверь, что микрофон включен",
+    "en": "Can you check if your microphone is on, please?"
+  },
+  "What did you say again?": {
+    "ru": "Пожалуйста, повтори",
+    "en": "What did you say again?"
+  },
+  "Seems like we have a trouble. See logs for more information": {
+    "ru": "Что-то пошло не так. Посмотри логи",
+    "en": "Seems like we have a trouble. See logs for more information"
+  },
+  "Hello, {}! How can I help you today?": {
+    "ru": "Здравствуйте, {}! Чем я могу вам помочь?",
+    "en": "Hello, {}! How can I help you today?"
+  },
+"Good day to you {}! How can I help you today?": {
+    "ru": "Добрый день , {}! Чем займемся сегодня?",
+    "en": "Good day to you {}! How can I help you today?"
+  },
+
+  "Goodbye, {}! Have a nice day!": {
+    "ru": "До свидания, {}! Хорошего тебе дня!",
+    "en": "Goodbye, {}! Have a nice day!"
+  },
+  "See you soon, {}!": {
+    "ru": "Увидимся , {}!",
+    "en": "See you soon, {}!"
+  },
+  "Here is what I found for {} on google": {
+    "ru": "Вот, что умне удалось найти по запросу {} в Гугл",
+    "en": "Here is what I found for {} on google"
+  },
+  "Here is what I found for {} on youtube": {
+    "ru": "Вот, что умне удалось найти по запросу {} на Ютьюб",
+    "en": "Here is what I found for {} on youtube"
+  },
+  "Here is what I found for {} on Wikipedia": {
+    "ru": "Вот, что умне удалось найти по запросу {} в Википедии",
+    "en": "Here is what I found for {} on Wikipedia"
+  },
+  "Can't find {} on Wikipedia. But here is what I found on google": {
+    "ru": "Не могу найти в Википедии ничего по запросу {}. Но вот, что мне удалось найти в Гугл",
+    "en": "Can't find {} on Wikipedia. But here is what I found on google"
+  },
+  "It is {0} in {1}": {
+    "ru": "Сейчас в городе {1} {0}",
+    "en": "It is {0} in {1}"
+  },
+  "The temperature is {} degrees Celsius": {
+    "ru": "Температура {} градусов Цельсия",
+    "en": "The temperature is {} degrees Celsius"
+  },
+  "The wind speed is {} meters per second": {
+    "ru": "Скорость ветра {} метров в секунду",
+    "en": "The wind speed is {} meters per second"
+  },
+  "The pressure is {} mm Hg": {
+    "ru": "Давление {} миллиметров ртутного столба",
+    "en": "The pressure is {} mm Hg"
+  },
+  "Here is what I found for {} on social nets": {
+    "ru": "Вот, что мне удалось найти по запросу {} в социальных сетях",
+    "en": "Here is what I found for {} on social nets"
+  },
+  "won": {
+    "ru": "победила",
+    "en": "won"
+  },
+  "Tails": {
+    "ru": "Решка",
+    "en": "Tails"
+  },
+  "Heads": {
+    "ru": "Орел",
+    "en": "Heads"
+  },
+  "Can you repeat, please?": {
+    "ru": "Можешь повторить?",
+    "en": "Can you repeat, please?"
+  },
+  "Can you check if your self.microphone is on, please?": {
+    "ru": "Пожалуйста , проверьте работает ли ваш микрофон ?",
+    "en": "Can you check if your self.microphone is on, please?"
+  },
+  "That's my command's,whose can I do for you {}": {
+    "ru": "Вот список команд которые я могу выполнить",
+    "en": "That's my command's,whose can I do for you {}"
+  },
+  "snow": {
+    "ru": "идет снег",
+    "en": "snow"
+  },
+  "Whose name you could use?": {
+    "ru": "Скажите как я могу к вам обращаться?",
+    "en": "How can I named you now?"
+  },
+  "Well {}! We can continue our work now": {
+    "ru": "Хорошо {}! Можем продолжать работу дальше",
+    "en": "Well {}! We can continue our work now"
+  },
+  "And what city you live?": {
+    "ru": "И в каком же говроде вы находитесь ?",
+    "en": "And what city you live?"
+  },
+  "Location was changed on {}": {
+    "ru": "Ваше геоположение изменено на {}",
+    "en": "Location was changed on {}"
+  },
+  "Iniciate turn off the computer. See you soon {}, goodbye": {
+    "ru": "Иницирована команда завершения работы. Увидимся , {}",
+    "en": "Iniciate turn off the computer. See you soon {}, goodbye"
+  },
+  "Iniciate restart the computer. Wait a minute.": {
+    "ru": "Иницирована команда перезагрузки. Подождите несколько минут.",
+    "en": "Iniciate restart the computer. Wait a minute."
+  },
+  "Good night, {}": {
+    "ru": "Сладких снов, {}",
+    "en": "Good night, {}"
+  },
+    "": {
+    "ru": "",
+    "en": " "
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  },
+    "": {
+    "ru": "",
+    "en": " "
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  }
+}

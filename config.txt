@@ -1,0 +1,5 @@
+Status: 0
+Name: Пользователь
+Lang: ru
+L_Lang: en
+City: Ростов-на-Дону
